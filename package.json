@@ -1,0 +1,26 @@
+{
+  "devDependencies": {
+    "prettier": "2.8.8"
+  },
+  "name": "sharephotonodejs",
+  "description": "node js web app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/selcukctn/sharephotonodejs.git"
+  },
+  "keywords": [
+    "share",
+    "photo"
+  ],
+  "author": "Harun Selcuk Cetin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/selcukctn/sharephotonodejs/issues"
+  },
+  "homepage": "https://github.com/selcukctn/sharephotonodejs#readme"
+}
